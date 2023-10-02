@@ -11,8 +11,8 @@ function App() {
       <NavBar />
       <Search />
       <Job />
-      <Footer />
       <Value />
+      <Footer />
     </div>
   )
 }
